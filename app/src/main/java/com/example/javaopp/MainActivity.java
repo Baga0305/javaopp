@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         z++;
 
+
         myCat = new Cat(3,"Barsik","Padre","red");
         myCat.talk();
 
